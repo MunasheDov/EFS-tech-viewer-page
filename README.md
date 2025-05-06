@@ -1,5 +1,7 @@
 # Description
 It's a tech tree viewer for Emperor of the Fading Suns. You can view dependency trees in either direction (seeing what a tech depends on, or what it unlocks).
+Link to live page: https://munashedov.github.io/EFS-tech-viewer-page/
+
 # Main View
 ![2025-05-06 13_27_31-Window](https://github.com/user-attachments/assets/d98d3d4f-d899-4026-8374-1eadd4da0ed0)
 # Requirements for Ranger Legion
